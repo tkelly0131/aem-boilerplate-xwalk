@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/quicklion31885/:/",
-    "/content/quicklion31885/configuration:/.helix/config.json",
-    "/content/quicklion31885/metadata:/metadata.json"
+    "/content/2025/48/quicklion31885/:/",
+    "/content/2025/48/quicklion31885/configuration:/.helix/config.json",
+    "/content/2025/48/quicklion31885/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/quicklion31885/"
+    "/content/2025/48/quicklion31885/"
   ]
 }
