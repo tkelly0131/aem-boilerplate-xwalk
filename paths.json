@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/2026/04/steadyfox34477/:/",
+    "/content/2026/04/steadyfox34477/configuration:/.helix/config.json",
+    "/content/2026/04/steadyfox34477/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/2026/04/steadyfox34477/"
   ]
 }
