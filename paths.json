@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate-frescopa/:/",
-    "/content/aem-boilerplate-frescopa/configuration:/.helix/config.json",
-    "/content/aem-boilerplate-frescopa/metadata:/metadata.json"
+    "/content/quicklion31885/:/",
+    "/content/quicklion31885/configuration:/.helix/config.json",
+    "/content/quicklion31885/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate-frescopa/"
+    "/content/quicklion31885/"
   ]
 }
