@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/steadyfox34477/:/",
-    "/content/steadyfox34477/configuration:/.helix/config.json",
-    "/content/steadyfox34477/metadata:/metadata.json"
+    "/content/universal-editor-getting-started-site/:/",
+    "/content/universal-editor-getting-started-site/configuration:/.helix/config.json",
+    "/content/universal-editor-getting-started-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/steadyfox34477/"
+    "/content/universal-editor-getting-started-site/"
   ]
 }
