@@ -1,4 +1,2 @@
-mountpoints:
-  /:
-    url: "https://author-p184402-e1922758.adobeaemcloud.com/bin/franklin.delivery/tkelly0131/aem-boilerplate-xwalk/main"
+mountpoints:/: "https://author-p184402-e1922758.adobeaemcloud.com/bin/franklin.delivery/tkelly0131/aem-boilerplate-xwalk/main"
 
